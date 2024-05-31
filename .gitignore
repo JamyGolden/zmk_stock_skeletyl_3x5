@@ -1,0 +1,7 @@
+.venv
+.west
+/bootloader
+/modules
+/tools
+/zephyr
+!/zephyr/module.yml
